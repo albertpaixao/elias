@@ -1,3 +1,14 @@
+.video {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.video video {
+  margin: auto;
+  padding-bottom: 2rem;
+}
+
 .col-2 {
   display: -ms-grid;
   display: grid;
